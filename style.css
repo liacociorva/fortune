@@ -1,0 +1,18 @@
+body {
+  background-color: #e2a5e6;
+  margin: 1vw;
+  padding: 1vw;
+  border: 1vw solid #4a064f;
+  color: #4a064f;
+  font-family: "Trirong", serif;
+  font-size: 2vw;
+}
+
+input, button {
+  font-size: 3vw;
+  margin: 1vw;
+  background-color: #f4cafa;
+  color: #4a064f;
+  font-family: "Trirong", serif;
+  font-weight: bold;
+}
